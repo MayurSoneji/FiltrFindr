@@ -26,7 +26,7 @@ Broken Code: [Broken Code](https://github.com/MayurSoneji/FiltrFindr/tree/master
 
 ### Peer Lessons
 
-Selection and Trying something new: [Presentation Link]()
+Selection and Trying something new: [Presentation Link](https://docs.google.com/presentation/d/13AIypE50eiEdYH2gLs9HQOMg7BiRUtMTeckrU5W9t_w/edit?usp=sharing)
 
 ### Blogs
 
