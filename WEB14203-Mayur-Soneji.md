@@ -14,13 +14,15 @@ In this brief we were asked to experiement with a variety of new tools and imple
 
 ### App Links
 
-File Directory: [All Website Files]()
+File Directory: [All Website Files](https://github.com/MayurSoneji/FiltrFindr/tree/master/WorkingCode)
 
-Github Pages: [Open-Innovation-App]()
+Github Pages: [Working Demo]()
 
 Code Wars Profile: [Profile](https://www.codewars.com/users/MayurS)
 
 Thimble Firebase Pusher: [Thimble](https://thimbleprojects.org/msoneji/373053/)
+
+Broken Code: [Broken Code](https://github.com/MayurSoneji/FiltrFindr/tree/master/BrokenCode)
 
 ### Peer Lessons
 
