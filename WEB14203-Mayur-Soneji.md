@@ -30,7 +30,7 @@ Selection and Trying something new: [Presentation Link]()
 
 ### Blogs
 
-Week 1 : [What can be some of the challenges when running a workshop?](https://medium.com/@m.soneji98/what-can-be-some-of-the-challenges-when-running-a-workshop-61d7fbf30e6e) 
+Week 1: [What can be some of the challenges when running a workshop?](https://medium.com/@m.soneji98/what-can-be-some-of-the-challenges-when-running-a-workshop-61d7fbf30e6e) 
 
 Week 2: [Why is it important that we prototype our ideas and test it with users?](https://medium.com/@m.soneji98/why-is-it-important-that-we-prototype-our-ideas-and-test-it-with-users-7f64d5c6be36) 
 
