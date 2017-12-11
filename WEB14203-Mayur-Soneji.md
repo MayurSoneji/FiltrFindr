@@ -16,7 +16,7 @@ In this brief we were asked to experiement with a variety of new tools and imple
 
 File Directory: [All Website Files](https://github.com/MayurSoneji/FiltrFindr/tree/master/WorkingCode)
 
-Github Pages: [Working Demo]()
+Github Pages: [Working Demo](https://mayursoneji.github.io/WorkingDemoFiltrFindr/)
 
 Code Wars Profile: [Profile](https://www.codewars.com/users/MayurS)
 
